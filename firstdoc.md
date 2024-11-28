@@ -4,4 +4,4 @@ The unified solution makes every stage of cloud native security simple. Panoptic
 
 By sharing deep insights from across siloed service environments and workloads, Panoptica provides comprehensive coverage and meaningful remediation insights through its Attack Path Analysis capability, an approach that exposes exploitable paths that attackers could use to breach your application.
 
-With fast time-to-activation thanks to an easy set-up flow, organizations of all sizes can utilize Panoptica to protect their cloud native applications and their entire cloud services stack.
+With an easy setup flow leading to fast time-to-activation, organizations of all sizes can utilize Panoptica to protect their cloud native applications, and their entire cloud services stack.
